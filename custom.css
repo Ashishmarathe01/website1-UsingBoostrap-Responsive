@@ -1,0 +1,39 @@
+.navbar-nav li{ 
+    padding-right: 50px;
+
+}
+  .navbar {
+    background-color:aliceblue
+}
+.navbar{
+    padding: 0.8rem;
+    margin-bottom: 20px;
+    
+}
+ .navbar-brand  img{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 100px;
+    width: 150px;
+    height: 40px;
+    float: left;}
+
+   .carousel-item img{
+
+    height: auto;
+    width: 100%;
+
+   }
+
+   .jumbotron{
+       padding:1rem;
+       border-radius: 0;
+   }
+   .padding{
+       padding-bottom: 2rem;
+   }
+
+   .welcome{
+       width: 75%;
+       margin: 0 auto;
+   }
